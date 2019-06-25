@@ -1,0 +1,14 @@
+C:\Users\kulni\Documents\repositoryXML\Homework3\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\kulni\Documents\repositoryXML\Homework3\Homework3\bin\Debug\Homework3.exe
+C:\Users\kulni\Documents\repositoryXML\Homework3\Homework3\bin\Debug\Homework3.pdb
+C:\Users\kulni\Documents\repositoryXML\Homework3\Homework3\obj\Debug\Homework3.csprojAssemblyReference.cache
+C:\Users\kulni\Documents\repositoryXML\Homework3\Homework3\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+C:\Users\kulni\Documents\repositoryXML\Homework3\Homework3\obj\Debug\Homework3.exe
+C:\Users\kulni\Documents\repositoryXML\Homework3\Homework3\obj\Debug\Homework3.pdb
+C:\Users\kulni\Documents\repositoryXML\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\kulni\Documents\repositoryXML\Homework3\bin\Debug\Homework3.exe
+C:\Users\kulni\Documents\repositoryXML\Homework3\bin\Debug\Homework3.pdb
+C:\Users\kulni\Documents\repositoryXML\Homework3\obj\Debug\Homework3.csprojAssemblyReference.cache
+C:\Users\kulni\Documents\repositoryXML\Homework3\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+C:\Users\kulni\Documents\repositoryXML\Homework3\obj\Debug\Homework3.exe
+C:\Users\kulni\Documents\repositoryXML\Homework3\obj\Debug\Homework3.pdb
